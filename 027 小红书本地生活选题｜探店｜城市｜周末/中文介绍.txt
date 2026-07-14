@@ -1,0 +1,16 @@
+序号：027
+中文名称：小红书本地生活选题｜探店｜城市｜周末
+原始 Skill 名：xhs-platform-local-life-topic
+Skill 声明名称：xhs-platform-local-life-topic
+分类：02 账号定位与选题
+中文说明：生成探店、城市攻略、周末去哪儿和同城服务类选题。
+适合场景：本地生活、探店号、门店引流、同城团购。
+推荐输出：本地选题表
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-local-life-topic/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：62c09d0681155aa1036b12e8948b7948e53b1bf616bc3c5ef38148c9f1a623cc
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书本地生活选题｜探店｜城市｜周末. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.
