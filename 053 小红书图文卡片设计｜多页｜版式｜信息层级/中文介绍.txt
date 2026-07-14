@@ -1,0 +1,16 @@
+序号：053
+中文名称：小红书图文卡片设计｜多页｜版式｜信息层级
+原始 Skill 名：xhs-platform-card-design
+Skill 声明名称：xhs-platform-card-design
+分类：05 封面视觉与图文卡片
+中文说明：把文章或文案转成小红书多页图文卡片结构。
+适合场景：知识卡片、资料卡、教程卡、合集卡。
+推荐输出：卡片页脚本
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-card-design/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：641f22e0193e072c6348c65f3ba009bf40e887e2cc1b5491508b935d050f8887
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书图文卡片设计｜多页｜版式｜信息层级. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

@@ -1,0 +1,16 @@
+序号：059
+中文名称：小红书视觉风格统一｜字体｜颜色｜模板
+原始 Skill 名：xhs-platform-visual-system
+Skill 声明名称：xhs-platform-visual-system
+分类：05 封面视觉与图文卡片
+中文说明：为账号建立统一字体、颜色、版式和封面模板。
+适合场景：账号视觉混乱、品牌号统一、矩阵号模板化。
+推荐输出：视觉规范
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-visual-system/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：31ec26d95bd8960305bf3d81d706bc90c4e0ff74856673b50e9031512029f6ba
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书视觉风格统一｜字体｜颜色｜模板. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

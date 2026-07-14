@@ -1,0 +1,16 @@
+序号：050
+中文名称：小红书直播间货盘｜引流款｜利润款｜福利
+原始 Skill 名：xhs-platform-live-assortment
+Skill 声明名称：xhs-platform-live-assortment
+分类：04 视频与直播内容
+中文说明：设计直播引流款、利润款、形象款和福利款组合。
+适合场景：直播排品、上新直播、大促直播。
+推荐输出：货盘表
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-live-assortment/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：f8b4bfa225e3025f9e936c19876fa01d76e75baa06709408d52b9422b7e8cfc5
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书直播间货盘｜引流款｜利润款｜福利. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

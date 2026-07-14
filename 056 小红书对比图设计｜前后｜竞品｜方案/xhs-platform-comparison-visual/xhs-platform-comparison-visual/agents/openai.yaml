@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书对比图设计"
+  short_description: "用于小红书小红书对比图设计的运营分析、内容生成与执行检查"
+  default_prompt: "Use $xhs-platform-comparison-visual to improve a Xiaohongshu operation task with a practical checklist."
