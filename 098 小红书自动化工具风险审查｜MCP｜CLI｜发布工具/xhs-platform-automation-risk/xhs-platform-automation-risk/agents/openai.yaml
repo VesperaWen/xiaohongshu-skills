@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书自动化工具风险审查"
+  short_description: "用于小红书小红书自动化工具风险审查的运营分析、内容生成与执行检查"
+  default_prompt: "Use $xhs-platform-automation-risk to improve a Xiaohongshu operation task with a practical checklist."

@@ -1,0 +1,16 @@
+序号：097
+中文名称：小红书素材版权检查｜图片｜字体｜音乐｜Logo
+原始 Skill 名：xhs-platform-copyright-check
+Skill 声明名称：xhs-platform-copyright-check
+分类：10 规则合规与工具流程
+中文说明：检查图片、字体、音乐、达人素材和品牌Logo授权风险。
+适合场景：封面、图文、视频、品牌合作发布前。
+推荐输出：版权检查
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-copyright-check/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：012f433aa864290887f89b4b47906571015c77b964983bab77c967e683b55cef
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书素材版权检查｜图片｜字体｜音乐｜Logo. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

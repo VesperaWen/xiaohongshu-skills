@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书素材版权检查"
+  short_description: "用于小红书小红书素材版权检查的运营分析、内容生成与执行检查"
+  default_prompt: "Use $xhs-platform-copyright-check to improve a Xiaohongshu operation task with a practical checklist."

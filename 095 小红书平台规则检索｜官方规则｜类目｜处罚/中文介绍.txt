@@ -1,0 +1,16 @@
+序号：095
+中文名称：小红书平台规则检索｜官方规则｜类目｜处罚
+原始 Skill 名：xhs-platform-rule-router
+Skill 声明名称：xhs-platform-rule-router
+分类：10 规则合规与工具流程
+中文说明：遇到规则问题时，路由到官方规则和后台要求。
+适合场景：规则不确定、商品类目、内容审核、处罚申诉前。
+推荐输出：规则检索清单
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-rule-router/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：555f7931fa1f4a49e02a93b2ba41dfc1402d162ea817f2a63c9a16d82c666b3e
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书平台规则检索｜官方规则｜类目｜处罚. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

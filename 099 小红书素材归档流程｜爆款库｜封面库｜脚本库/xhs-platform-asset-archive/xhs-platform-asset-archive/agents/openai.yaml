@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书素材归档流程"
+  short_description: "用于小红书小红书素材归档流程的运营分析、内容生成与执行检查"
+  default_prompt: "Use $xhs-platform-asset-archive to improve a Xiaohongshu operation task with a practical checklist."

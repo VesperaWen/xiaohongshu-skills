@@ -1,0 +1,16 @@
+序号：091
+中文名称：小红书蒲公英投放｜合作｜审核｜复盘
+原始 Skill 名：xhs-platform-pugongying-campaign
+Skill 声明名称：xhs-platform-pugongying-campaign
+分类：09 达人营销与品牌投放
+中文说明：规划蒲公英达人合作、brief、审核和复盘流程。
+适合场景：品牌投放、达人合作、蒲公英项目管理。
+推荐输出：蒲公英计划
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-pugongying-campaign/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：0871048833d7394cfcaf60216fe58b830f2bc0f52ce5ce4f49c8ca9623b434ed
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书蒲公英投放｜合作｜审核｜复盘. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.
