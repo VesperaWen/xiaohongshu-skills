@@ -1,0 +1,16 @@
+序号：072
+中文名称：小红书粉丝分层运营｜潜客｜老粉｜达人｜同行
+原始 Skill 名：xhs-platform-fan-segmentation
+Skill 声明名称：xhs-platform-fan-segmentation
+分类：07 互动与私域承接
+中文说明：按潜在客户、老粉、达人、同行等分层维护粉丝。
+适合场景：私域转化、老粉维护、达人关系管理。
+推荐输出：粉丝分层表
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-fan-segmentation/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：4b761ffc94a8dc0fdc02816915c8c92445519d622874786ba0da1fbd5c447f90
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书粉丝分层运营｜潜客｜老粉｜达人｜同行. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

@@ -1,0 +1,16 @@
+序号：061
+中文名称：小红书主页优化｜昵称｜简介｜置顶
+原始 Skill 名：xhs-platform-profile-optimization
+Skill 声明名称：xhs-platform-profile-optimization
+分类：06 账号运营与增长
+中文说明：优化昵称、头像、简介、置顶笔记和合集。
+适合场景：主页转粉低、商业信息不清、账号信任弱。
+推荐输出：主页优化方案
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-profile-optimization/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：887829201e53f95db04c4a11e6dcc00eec4b4b200e64c8aed2c89bd8b5ca7d12
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书主页优化｜昵称｜简介｜置顶. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.
