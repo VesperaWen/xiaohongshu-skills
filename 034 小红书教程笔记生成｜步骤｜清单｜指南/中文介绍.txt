@@ -1,0 +1,16 @@
+序号：034
+中文名称：小红书教程笔记生成｜步骤｜清单｜指南
+原始 Skill 名：xhs-platform-tutorial-note
+Skill 声明名称：xhs-platform-tutorial-note
+分类：03 图文笔记创作
+中文说明：生成步骤型教程、清单型教程和操作指南。
+适合场景：知识教程、工具使用、护肤流程、家居收纳。
+推荐输出：教程笔记
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-tutorial-note/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：76ccbc8c4f4d5ba080d2ec26bf2b2c9e6e4c253a92990aecc4211f5af07f1ced
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书教程笔记生成｜步骤｜清单｜指南. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

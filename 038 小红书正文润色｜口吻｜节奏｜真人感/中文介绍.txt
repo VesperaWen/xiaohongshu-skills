@@ -1,0 +1,16 @@
+序号：038
+中文名称：小红书正文润色｜口吻｜节奏｜真人感
+原始 Skill 名：xhs-platform-body-polish
+Skill 声明名称：xhs-platform-body-polish
+分类：03 图文笔记创作
+中文说明：把生硬文案改成更自然、更像真人的小红书口吻。
+适合场景：品牌文案太硬、AI味重、笔记读起来不真实。
+推荐输出：润色稿
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-body-polish/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：43fb29b8929c74148a6dcc1180f32c8c83778c277431a307f44d39253ed271fe
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书正文润色｜口吻｜节奏｜真人感. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

@@ -1,0 +1,16 @@
+序号：043
+中文名称：小红书笔记改稿评审｜标题｜封面｜正文｜标签
+原始 Skill 名：xhs-platform-note-review
+Skill 声明名称：xhs-platform-note-review
+分类：03 图文笔记创作
+中文说明：检查标题、封面、正文、标签和转化路径并给改稿建议。
+适合场景：发布前评审、团队审核、爆款潜力提升。
+推荐输出：改稿建议
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-note-review/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：f5380be76a7e34ddfaec61bc8271521c9ee8ab65a63c00057f0a001bd5899077
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书笔记改稿评审｜标题｜封面｜正文｜标签. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.
