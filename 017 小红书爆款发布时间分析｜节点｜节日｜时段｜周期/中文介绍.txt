@@ -1,0 +1,16 @@
+序号：017
+中文名称：小红书爆款发布时间分析｜节点｜节日｜时段｜周期
+原始 Skill 名：xhs-platform-publish-time-analysis
+Skill 声明名称：xhs-platform-publish-time-analysis
+分类：01 爆款分析与对标研究
+中文说明：复盘发布时间、节点、节日、热点和账号周期对数据的影响。
+适合场景：判断什么时候发、节日节点是否影响爆发、重发策略。
+推荐输出：发布时间建议
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-publish-time-analysis/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：dc42944a26d93a17a04effe958e942632d393fde256eabc49db4a956e9754b72
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书爆款发布时间分析｜节点｜节日｜时段｜周期. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

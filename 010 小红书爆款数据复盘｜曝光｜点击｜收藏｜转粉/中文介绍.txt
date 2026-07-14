@@ -1,0 +1,16 @@
+序号：010
+中文名称：小红书爆款数据复盘｜曝光｜点击｜收藏｜转粉
+原始 Skill 名：xhs-platform-viral-data-review
+Skill 声明名称：xhs-platform-viral-data-review
+分类：01 爆款分析与对标研究
+中文说明：用曝光、点击、点赞、收藏、评论和转粉数据判断爆点。
+适合场景：复盘已发布笔记、判断爆款原因、找下一轮优化方向。
+推荐输出：数据复盘报告
+安装状态：本次已安装
+安装说明：压缩包内部结构为 xhs-platform-viral-data-review/SKILL.md；交给Codex安装，或解压到Codex skills目录后重启。
+依赖说明：纯文档型工作流，无脚本依赖；自动发布、自动评论、自动采集类工具未写入源码。
+开源许可证：MIT
+项目来源：本地原创；未直接打包第三方GitHub源码。
+源码审核：标准SKILL.md结构通过；未包含二进制可执行文件、网络脚本或密钥；仅含SKILL.md、references、agents/openai.yaml和MIT LICENSE。
+ZIP SHA256：9d50d9bc90ff2fbe9fbc49f9c056721e6e6c60a2103dc77db15ca5b6f717fa26
+英文触发简介：Create, audit, and optimize Xiaohongshu / REDnote operations for 小红书爆款数据复盘｜曝光｜点击｜收藏｜转粉. Use when the user needs Xiaohongshu viral analysis, content planning, note writing, cover design, account growth, community interaction, store conversion, influencer marketing, ads, compliance, or workflow guidance.

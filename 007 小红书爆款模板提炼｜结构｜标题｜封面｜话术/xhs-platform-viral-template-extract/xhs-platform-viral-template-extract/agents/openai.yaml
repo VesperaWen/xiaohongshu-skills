@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书爆款模板提炼"
+  short_description: "用于小红书小红书爆款模板提炼的运营分析、内容生成与执行检查"
+  default_prompt: "Use $xhs-platform-viral-template-extract to improve a Xiaohongshu operation task with a practical checklist."

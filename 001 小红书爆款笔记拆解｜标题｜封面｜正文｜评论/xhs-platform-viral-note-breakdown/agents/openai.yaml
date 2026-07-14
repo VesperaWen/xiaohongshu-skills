@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书爆款笔记拆解"
+  short_description: "用于小红书小红书爆款笔记拆解的运营分析、内容生成与执行检查"
+  default_prompt: "Use $xhs-platform-viral-note-breakdown to improve a Xiaohongshu operation task with a practical checklist."
